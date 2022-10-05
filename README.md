@@ -29,6 +29,10 @@ e *keras*
 pip install tensorflow
 pip install keras
 ```
+Installa Django con il comando
+```bash
+pip install django
+```
 
 Per testare la web bisogna eseguire il web server django
 ```bash
